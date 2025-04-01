@@ -181,3 +181,6 @@ _keys.txt
 
 # develop files
 test.ipynb
+
+# raw data
+raw_data_xls/*
