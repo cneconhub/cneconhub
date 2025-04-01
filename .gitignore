@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# keys of the repository
+_keys.txt
+
+# Macos debris
+.DS_Store
+
+# develop files
+test.ipynb
