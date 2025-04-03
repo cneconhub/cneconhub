@@ -183,4 +183,5 @@ _keys.txt
 test.ipynb
 
 # raw data
-raw_data_xls/*
+rawdata/*
+rawdata.py
